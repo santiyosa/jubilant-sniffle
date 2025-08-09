@@ -8,3 +8,6 @@ print(palabra)
 #3
 palabra.append("La niña")
 print(palabra)
+#4
+palabra.append("El Oso")
+print(palabra)
